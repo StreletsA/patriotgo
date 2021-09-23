@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: 11f6911f4ae4b7b4e979ee3548630edc
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 446955142ff68c845b4945b7892ad8be
+  - enabled: 0
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 4aae143f9d54b0d44b85de2db472f239
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Collection.unity
+    guid: 56c1493789dbe664cac029c8d371fd74
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/HelpScene.unity
+    guid: 3aee46dbfc6a0064389d8089a4898667
+  - enabled: 0
+    path: Assets/Scenes/ModelViewScene.unity
+    guid: 3e0a2dd8951043548b15a3481c2dc0e1
+  - enabled: 0
+    path: Assets/Scenes/MessagesScene.unity
+    guid: 5029dd4d57d772b4d9fbbadbccc10f35
+  - enabled: 0
+    path: Assets/Scenes/Collection2.unity
+    guid: 2f10b6f5e175c344a904dc1b13883650
+  - enabled: 0
+    path: Assets/Scenes/WorldScene.unity
+    guid: 7f085db8219d24a419c14a52ed798b28
+  m_configObjects: {}

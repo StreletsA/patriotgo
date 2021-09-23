@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - R-187P
+  - antenna_R-187P
+  - headset_R-187P
+  - element1_R-168-5UN
+  - element2_R-168-5UN
+  - element3_R-168-5UN
+  - element1_R-168-25UN
+  - element2_R-168-25UN
+  - element1_R-159
+  - element1_TA-57
+  - element1_TA-02
+  - element1_TK-2
+  - element2_TK-2
+  - element1_R-168-25U-2
+  - element2_R-168-25U-2
+  - element3_R-168-25U-2
+  - akkum_R-187P
+  - akkum_R-159
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

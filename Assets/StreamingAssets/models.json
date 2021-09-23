@@ -1,0 +1,28 @@
+{
+    "Items": [
+        {
+            "Name": "Antenna R-187P",
+            "Latitude": 60.009578704833987,
+            "Longitude": 30.37504005432129,
+            "IsFound": false,
+            "Radiostation": "R-187P",
+            "ModelName": "antenna_R-187P.fbx"
+        },
+        {
+            "Name": "Headset R-187P",
+            "Latitude": 60.010009765625,
+            "Longitude": 30.374229431152345,
+            "IsFound": false,
+            "Radiostation": "R-187P",
+            "ModelName": "headset_R-187P.fbx"
+        },
+        {
+            "Name": "R-187P",
+            "Latitude": 60.00965118408203,
+            "Longitude": 30.375089645385743,
+            "IsFound": false,
+            "Radiostation": "R-187P",
+            "ModelName": "R-187P.fbx"
+        }
+    ]
+}
